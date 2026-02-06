@@ -2,7 +2,7 @@
 > **Le langage universel pour interroger et manipuler la donnée.**
 
 <p align="center">
-  <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.540x557.png" alt="PostgreSQL Logo" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="150"/>
 </p>
 
 ---
